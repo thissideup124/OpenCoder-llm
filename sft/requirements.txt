@@ -72,7 +72,7 @@ termcolor==2.4.0
 tokenizers==0.15.2
 torch==2.4.0
 tqdm==4.66.5
-transformers==4.37.0
+transformers==4.48.0
 triton==3.0.0
 types-pytz==2024.1.0.20240417
 typing_extensions==4.12.2
