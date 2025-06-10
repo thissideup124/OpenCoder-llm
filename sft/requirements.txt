@@ -61,7 +61,7 @@ python-dateutil==2.9.0.post0
 pytz==2024.1
 PyYAML==6.0.2
 regex==2024.7.24
-requests==2.32.3
+requests==2.32.4
 rouge_score==0.1.2
 safetensors==0.4.4
 sentencepiece==0.2.0
