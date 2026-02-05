@@ -51,7 +51,7 @@ packaging==24.1
 pandas==2.2.2
 pandas-stubs==2.2.2.240807
 pillow==10.4.0
-protobuf==5.27.3
+protobuf==5.29.6
 psutil==6.0.0
 py-cpuinfo==9.0.0
 pyarrow==17.0.0
