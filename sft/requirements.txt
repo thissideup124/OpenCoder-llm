@@ -50,7 +50,7 @@ openpyxl==3.1.5
 packaging==24.1
 pandas==2.2.2
 pandas-stubs==2.2.2.240807
-pillow==10.4.0
+pillow==12.1.1
 protobuf==5.27.3
 psutil==6.0.0
 py-cpuinfo==9.0.0
